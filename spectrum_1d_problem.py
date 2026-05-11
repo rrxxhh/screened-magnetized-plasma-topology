@@ -73,7 +73,7 @@ kz = 0.5
 nu = -0.5
 
 def mu_fun(x):
-    return 0.3*np.tanh(x)
+    return np.tanh(x)
 
 # def mu_fun(x):
 #     return x
