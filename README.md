@@ -2,7 +2,14 @@
 
 This repository contains numerical scripts associated with the manuscript:
 
-"Phase-Space Topology and Spectral Flow in Screened Magnetized Plasmas"
+Published article:
+
+X. Rao, A. Yolbarsop, H. Li, et al.,
+Phase-space topology and spectral flow in screened magnetized plasmas,
+Phys. Rev. Research 8, 023334 (2026).
+
+Article DOI:
+https://doi.org/10.1103/kfhx-hp37
 
 The code is intended to reproduce the main numerical calculations discussed in the paper, including bulk-symbol spectra, Berry--Chern charge calculations, and one-dimensional interface spectral-flow calculations for screened magnetized plasmas.
 
